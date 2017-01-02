@@ -1,0 +1,310 @@
+{
+	"groups": [
+		{
+			"keys": "bg_jpg,egret_icon_png,description_json,button_finish_png,button_accept_png,02_01_png,02_02_png,02_03_png,02_04_png,02_05_png,02_06_png,02_07_png,02_08_png,02_09_png,map01_png,map02_png,01_01_png,01_02_png,01_03_png,01_04_png,01_05_png,01_06_png,01_07_png,01_08_png,01_09_png,01_10_png,baoshi_png,missionblank_exit_png,missionblank_png,heroes_png,zuanshi_png,userpanel_png,wall_png,water_png,pileum_png,rod_png,shuijing_png,tree_png,run_01_png,run_02_png,run_03_png,run_04_png,run_05_png,run_06_png,run_07_png,run_08_png,stand_01_png,stand_02_png,stand_03_png,stand_04_png,stand_05_png,stand_06_png,stand_07_png,stand_08_png,stand_09_png,stand_10_png,killmonster_png,mission_acceptable_png,mission_finish_png,mission_ongoing_png",
+			"name": "preload"
+		}
+	],
+	"resources": [
+		{
+			"name": "bg_jpg",
+			"type": "image",
+			"url": "assets/bg.jpg"
+		},
+		{
+			"name": "egret_icon_png",
+			"type": "image",
+			"url": "assets/egret_icon.png"
+		},
+		{
+			"name": "description_json",
+			"type": "json",
+			"url": "config/description.json"
+		},
+		{
+			"name": "button_finish_png",
+			"type": "image",
+			"url": "assets/button_finish.png"
+		},
+		{
+			"name": "button_accept_png",
+			"type": "image",
+			"url": "assets/button_accept.png"
+		},
+		{
+			"name": "02_01_png",
+			"type": "image",
+			"url": "assets/NPC_2/02_01.png"
+		},
+		{
+			"name": "02_02_png",
+			"type": "image",
+			"url": "assets/NPC_2/02_02.png"
+		},
+		{
+			"name": "02_03_png",
+			"type": "image",
+			"url": "assets/NPC_2/02_03.png"
+		},
+		{
+			"name": "02_04_png",
+			"type": "image",
+			"url": "assets/NPC_2/02_04.png"
+		},
+		{
+			"name": "02_05_png",
+			"type": "image",
+			"url": "assets/NPC_2/02_05.png"
+		},
+		{
+			"name": "02_06_png",
+			"type": "image",
+			"url": "assets/NPC_2/02_06.png"
+		},
+		{
+			"name": "02_07_png",
+			"type": "image",
+			"url": "assets/NPC_2/02_07.png"
+		},
+		{
+			"name": "02_08_png",
+			"type": "image",
+			"url": "assets/NPC_2/02_08.png"
+		},
+		{
+			"name": "02_09_png",
+			"type": "image",
+			"url": "assets/NPC_2/02_09.png"
+		},
+		{
+			"name": "map01_png",
+			"type": "image",
+			"url": "assets/map/map01.png"
+		},
+		{
+			"name": "map02_png",
+			"type": "image",
+			"url": "assets/map/map02.png"
+		},
+		{
+			"name": "01_01_png",
+			"type": "image",
+			"url": "assets/NPC_1/01_01.png"
+		},
+		{
+			"name": "01_02_png",
+			"type": "image",
+			"url": "assets/NPC_1/01_02.png"
+		},
+		{
+			"name": "01_03_png",
+			"type": "image",
+			"url": "assets/NPC_1/01_03.png"
+		},
+		{
+			"name": "01_04_png",
+			"type": "image",
+			"url": "assets/NPC_1/01_04.png"
+		},
+		{
+			"name": "01_05_png",
+			"type": "image",
+			"url": "assets/NPC_1/01_05.png"
+		},
+		{
+			"name": "01_06_png",
+			"type": "image",
+			"url": "assets/NPC_1/01_06.png"
+		},
+		{
+			"name": "01_07_png",
+			"type": "image",
+			"url": "assets/NPC_1/01_07.png"
+		},
+		{
+			"name": "01_08_png",
+			"type": "image",
+			"url": "assets/NPC_1/01_08.png"
+		},
+		{
+			"name": "01_09_png",
+			"type": "image",
+			"url": "assets/NPC_1/01_09.png"
+		},
+		{
+			"name": "01_10_png",
+			"type": "image",
+			"url": "assets/NPC_1/01_10.png"
+		},
+		{
+			"name": "baoshi_png",
+			"type": "image",
+			"url": "assets/baoshi.png"
+		},
+		{
+			"name": "missionblank_exit_png",
+			"type": "image",
+			"url": "assets/missionblank_exit.png"
+		},
+		{
+			"name": "missionblank_png",
+			"type": "image",
+			"url": "assets/missionblank.png"
+		},
+		{
+			"name": "heroes_png",
+			"type": "image",
+			"url": "assets/heroes.png"
+		},
+		{
+			"name": "zuanshi_png",
+			"type": "image",
+			"url": "assets/zuanshi.png"
+		},
+		{
+			"name": "userpanel_png",
+			"type": "image",
+			"url": "assets/userpanel.png"
+		},
+		{
+			"name": "wall_png",
+			"type": "image",
+			"url": "assets/wall.png"
+		},
+		{
+			"name": "water_png",
+			"type": "image",
+			"url": "assets/water.png"
+		},
+		{
+			"name": "pileum_png",
+			"type": "image",
+			"url": "assets/pileum.png"
+		},
+		{
+			"name": "rod_png",
+			"type": "image",
+			"url": "assets/rod.png"
+		},
+		{
+			"name": "shuijing_png",
+			"type": "image",
+			"url": "assets/shuijing.png"
+		},
+		{
+			"name": "tree_png",
+			"type": "image",
+			"url": "assets/tree.png"
+		},
+		{
+			"name": "run_01_png",
+			"type": "image",
+			"url": "assets/wolf/run/run_01.png"
+		},
+		{
+			"name": "run_02_png",
+			"type": "image",
+			"url": "assets/wolf/run/run_02.png"
+		},
+		{
+			"name": "run_03_png",
+			"type": "image",
+			"url": "assets/wolf/run/run_03.png"
+		},
+		{
+			"name": "run_04_png",
+			"type": "image",
+			"url": "assets/wolf/run/run_04.png"
+		},
+		{
+			"name": "run_05_png",
+			"type": "image",
+			"url": "assets/wolf/run/run_05.png"
+		},
+		{
+			"name": "run_06_png",
+			"type": "image",
+			"url": "assets/wolf/run/run_06.png"
+		},
+		{
+			"name": "run_07_png",
+			"type": "image",
+			"url": "assets/wolf/run/run_07.png"
+		},
+		{
+			"name": "run_08_png",
+			"type": "image",
+			"url": "assets/wolf/run/run_08.png"
+		},
+		{
+			"name": "stand_01_png",
+			"type": "image",
+			"url": "assets/wolf/stand/stand_01.png"
+		},
+		{
+			"name": "stand_02_png",
+			"type": "image",
+			"url": "assets/wolf/stand/stand_02.png"
+		},
+		{
+			"name": "stand_03_png",
+			"type": "image",
+			"url": "assets/wolf/stand/stand_03.png"
+		},
+		{
+			"name": "stand_04_png",
+			"type": "image",
+			"url": "assets/wolf/stand/stand_04.png"
+		},
+		{
+			"name": "stand_05_png",
+			"type": "image",
+			"url": "assets/wolf/stand/stand_05.png"
+		},
+		{
+			"name": "stand_06_png",
+			"type": "image",
+			"url": "assets/wolf/stand/stand_06.png"
+		},
+		{
+			"name": "stand_07_png",
+			"type": "image",
+			"url": "assets/wolf/stand/stand_07.png"
+		},
+		{
+			"name": "stand_08_png",
+			"type": "image",
+			"url": "assets/wolf/stand/stand_08.png"
+		},
+		{
+			"name": "stand_09_png",
+			"type": "image",
+			"url": "assets/wolf/stand/stand_09.png"
+		},
+		{
+			"name": "stand_10_png",
+			"type": "image",
+			"url": "assets/wolf/stand/stand_10.png"
+		},
+		{
+			"name": "killmonster_png",
+			"type": "image",
+			"url": "assets/killmonster.png"
+		},
+		{
+			"name": "mission_acceptable_png",
+			"type": "image",
+			"url": "assets/mission_acceptable.png"
+		},
+		{
+			"name": "mission_finish_png",
+			"type": "image",
+			"url": "assets/mission_finish.png"
+		},
+		{
+			"name": "mission_ongoing_png",
+			"type": "image",
+			"url": "assets/mission_ongoing.png"
+		}
+	]
+}
